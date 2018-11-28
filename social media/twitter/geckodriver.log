@@ -1,0 +1,161 @@
+1543370841898	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/3d/cml_x23d377_zfyrgxcgl38r0000gn/T/rust_mozprofile.v7bzkAmOswhB"
+1543370843675	Marionette	INFO	Listening on port 56027
+1543370843748	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543370894640	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/3d/cml_x23d377_zfyrgxcgl38r0000gn/T/rust_mozprofile.rPEH8KDlPYEE"
+1543370896465	Marionette	INFO	Listening on port 56330
+1543370896483	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543371073520	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/3d/cml_x23d377_zfyrgxcgl38r0000gn/T/rust_mozprofile.en0tjVl2D6DK"
+1543371075308	Marionette	INFO	Listening on port 57311
+1543371075366	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543371099769	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/3d/cml_x23d377_zfyrgxcgl38r0000gn/T/rust_mozprofile.QGb4Hic8aKgD"
+1543371101568	Marionette	INFO	Listening on port 57488
+1543371101622	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543371644143	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/3d/cml_x23d377_zfyrgxcgl38r0000gn/T/rust_mozprofile.FTzT9qqGBtAX"
+1543371645995	Marionette	INFO	Listening on port 60388
+1543371646104	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543371709332	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/3d/cml_x23d377_zfyrgxcgl38r0000gn/T/rust_mozprofile.OtM8cboVgyUS"
+1543371711181	Marionette	INFO	Listening on port 60752
+1543371711210	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543371788505	Marionette	INFO	Stopped listening on port 60752
+1543371792041	Marionette	INFO	Stopped listening on port 57488
+1543371795213	Marionette	INFO	Stopped listening on port 57311
+1543371801841	Marionette	INFO	Stopped listening on port 56330
+1543371807118	Marionette	INFO	Stopped listening on port 56027
+1543371924235	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/3d/cml_x23d377_zfyrgxcgl38r0000gn/T/rust_mozprofile.Lq3LQtYEEuXO"
+1543371926011	Marionette	INFO	Listening on port 61925
+1543371926089	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543372039229	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/3d/cml_x23d377_zfyrgxcgl38r0000gn/T/rust_mozprofile.0teTvecxXEJB"
+1543372040906	Marionette	INFO	Listening on port 62551
+1543372040972	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543372092437	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/3d/cml_x23d377_zfyrgxcgl38r0000gn/T/rust_mozprofile.5JtvjVtucSn8"
+1543372094157	Marionette	INFO	Listening on port 62888
+1543372094194	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543372229563	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/3d/cml_x23d377_zfyrgxcgl38r0000gn/T/rust_mozprofile.j8fsyuke5jtN"
+1543372231416	Marionette	INFO	Listening on port 63562
+1543372231424	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543372316255	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/3d/cml_x23d377_zfyrgxcgl38r0000gn/T/rust_mozprofile.4XORvhQHcEBQ"
+1543372318113	Marionette	INFO	Listening on port 64059
+1543372318195	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543372335594	Marionette	INFO	Stopped listening on port 63562
+1543372338777	Marionette	INFO	Stopped listening on port 62888
+1543372342085	Marionette	INFO	Stopped listening on port 62551
+1543372352727	Marionette	INFO	Stopped listening on port 61925
+1543372593176	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/3d/cml_x23d377_zfyrgxcgl38r0000gn/T/rust_mozprofile.SzLUUmxPLpZ2"
+1543372594933	Marionette	INFO	Listening on port 65416
+1543372595028	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543372609419	Marionette	INFO	Stopped listening on port 65416
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1543373320816	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/3d/cml_x23d377_zfyrgxcgl38r0000gn/T/rust_mozprofile.T0lvXSabKDX0"
+1543373322617	Marionette	INFO	Listening on port 52261
+1543373322679	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543373340301	Marionette	INFO	Stopped listening on port 52261
+[Child 56355, MediaPlayback #4] WARNING: Decoder=130ef5c30 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/workspace/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+[Child 56355, MediaPlayback #3] WARNING: Decoder=130ef5c30 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/workspace/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+[Child 56355, MediaPlayback #1] WARNING: Decoder=130ef5c30 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/workspace/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+[Child 56355, MediaPlayback #4] WARNING: Decoder=130ef5c30 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/workspace/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+[Child 56355, MediaPlayback #2] WARNING: Decoder=130ef5c30 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/workspace/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+[Child 56355, MediaPlayback #1] WARNING: Decoder=130ef5c30 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/workspace/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+[Child 56355, MediaPlayback #1] WARNING: Decoder=130ef5c30 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/workspace/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+[Child 56355, MediaPlayback #4] WARNING: Decoder=130ef5c30 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/workspace/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+[Child 56355, MediaPlayback #1] WARNING: Decoder=130ef5c30 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/workspace/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+[Child 56355, MediaPlayback #3] WARNING: Decoder=130ef5c30 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/workspace/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+[Child 56355, MediaPlayback #4] WARNING: Decoder=130ef5c30 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/workspace/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+[Child 56355, MediaPlayback #2] WARNING: Decoder=130ef5c30 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/workspace/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+[Child 56355, MediaPlayback #2] WARNING: Decoder=130ef5c30 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/workspace/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+[Child 56355, MediaPlayback #4] WARNING: Decoder=130ef5c30 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/workspace/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+[Child 56355, MediaPlayback #4] WARNING: Decoder=130ef5c30 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/workspace/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+[Child 56355, MediaPlayback #2] WARNING: Decoder=130ef5c30 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/workspace/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+[Child 56355, MediaPlayback #2] WARNING: Decoder=130ef5c30 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/workspace/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+[Child 56355, MediaPlayback #4] WARNING: Decoder=130ef5c30 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/workspace/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+[Child 56355, MediaPlayback #1] WARNING: Decoder=130ef5c30 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/workspace/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+[Child 56355, MediaPlayback #1] WARNING: Decoder=130ef5c30 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/workspace/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+[Child 56355, MediaPlayback #3] WARNING: Decoder=130ef5c30 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/workspace/build/src/dom/media/MediaDecoderStateMachine.cpp, line 3429
+1543373856058	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/3d/cml_x23d377_zfyrgxcgl38r0000gn/T/rust_mozprofile.4WlLKv79CXOb"
+1543373857748	Marionette	INFO	Listening on port 55062
+1543373857806	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543373869585	Marionette	INFO	Stopped listening on port 55062
+1543373871134	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/3d/cml_x23d377_zfyrgxcgl38r0000gn/T/rust_mozprofile.CAySxYyIicRD"
+1543373872873	Marionette	INFO	Listening on port 55194
+1543373872899	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 57103, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 729
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 56355, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 729
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1543373897793	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/3d/cml_x23d377_zfyrgxcgl38r0000gn/T/rust_mozprofile.VW0tA61ustO3"
+1543373899510	Marionette	INFO	Listening on port 55377
+1543373899542	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543373917064	Marionette	INFO	Stopped listening on port 55377
+1543374062158	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/3d/cml_x23d377_zfyrgxcgl38r0000gn/T/rust_mozprofile.irEC8m6MOLqV"
+1543374063794	Marionette	INFO	Listening on port 56416
+1543374063836	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543374079840	Marionette	INFO	Stopped listening on port 56416
+1543374099322	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/3d/cml_x23d377_zfyrgxcgl38r0000gn/T/rust_mozprofile.tpQfxtJe0Tvg"
+1543374101016	Marionette	INFO	Listening on port 56637
+1543374101076	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543374120814	Marionette	INFO	Stopped listening on port 56637
+1543374178944	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/3d/cml_x23d377_zfyrgxcgl38r0000gn/T/rust_mozprofile.JJ4Wowm2uJ0j"
+1543374180613	Marionette	INFO	Listening on port 57055
+1543374180695	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543374199272	Marionette	INFO	Stopped listening on port 57055
+1543374200850	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/3d/cml_x23d377_zfyrgxcgl38r0000gn/T/rust_mozprofile.ZTKrkctT6oUf"
+1543374202542	Marionette	INFO	Listening on port 57213
+1543374202601	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543374213759	Marionette	INFO	Stopped listening on port 57213
+1543374215331	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/3d/cml_x23d377_zfyrgxcgl38r0000gn/T/rust_mozprofile.XBvAOB6ncbxh"
+1543374217055	Marionette	INFO	Listening on port 57334
+1543374217083	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543374232259	Marionette	INFO	Stopped listening on port 57334
+1543374233826	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/3d/cml_x23d377_zfyrgxcgl38r0000gn/T/rust_mozprofile.MRIEnMUBwZrq"
+1543374235518	Marionette	INFO	Listening on port 57482
+1543374235570	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543374254370	Marionette	INFO	Stopped listening on port 57482
+1543374255909	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/3d/cml_x23d377_zfyrgxcgl38r0000gn/T/rust_mozprofile.2zmwztVD1nw6"
+1543374257594	Marionette	INFO	Listening on port 57748
+1543374257661	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1543374277997	Marionette	INFO	Stopped listening on port 57748
+1543374279583	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/3d/cml_x23d377_zfyrgxcgl38r0000gn/T/rust_mozprofile.Zazd1DaYHDAF"
+1543374281219	Marionette	INFO	Listening on port 57917
+1543374281247	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543374299289	Marionette	INFO	Stopped listening on port 57917
+1543374300863	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/3d/cml_x23d377_zfyrgxcgl38r0000gn/T/rust_mozprofile.TQ9XypRmZqsE"
+1543374302541	Marionette	INFO	Listening on port 58086
+1543374302610	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543374325982	Marionette	INFO	Stopped listening on port 58086
+1543374327544	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/3d/cml_x23d377_zfyrgxcgl38r0000gn/T/rust_mozprofile.6TIAdaliYDEo"
+1543374329272	Marionette	INFO	Listening on port 58260
+1543374329301	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543374344658	Marionette	INFO	Stopped listening on port 58260
+1543374346197	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/3d/cml_x23d377_zfyrgxcgl38r0000gn/T/rust_mozprofile.6C3lzhuI7UMV"
+1543374347795	Marionette	INFO	Listening on port 58406
+1543374347845	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543374358948	Marionette	INFO	Stopped listening on port 58406
+1543374360459	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/3d/cml_x23d377_zfyrgxcgl38r0000gn/T/rust_mozprofile.LTXOPfWptN14"
+1543374362163	Marionette	INFO	Listening on port 58529
+1543374362213	Marionette	WARN	TLS certificate errors will be ignored for this session
+1543374369167	Marionette	INFO	Stopped listening on port 58529
