@@ -1,0 +1,3 @@
+This folder contains the crawler of twitter and scientific american.
+
+To be continued...
