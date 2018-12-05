@@ -1,1 +1,1 @@
-This folder contains the Powerpoint of our team project for presentation.
+This folder contains the Powerpoint and posters of our team project for presentation.
