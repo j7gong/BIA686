@@ -1,1 +1,1 @@
-It contains four features: reviews, citation numbers, funding agency numbers, publication types
+It contains five features: reviews, citation numbers, funding agency numbers, publication types, journal science ranking
