@@ -2,7 +2,7 @@
 
 This repository contains the source files for the project of course BIA686.
 
-The objective is to study the topic trends in biomaterial research, especially focus on the social media features.
+The objective is to study the topic trends in biomaterial research, especially focus on the social media feature.
 
 ## Introduction and Problem Background
 
